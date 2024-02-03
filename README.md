@@ -8,3 +8,5 @@ wiki: https://en.wikipedia.org/wiki/ESP32
 # Course:
 playlist: https://www.youtube.com/playlist?list=PLlLe2PpVuiVJ7bdUtQHkXIlMzqxeOtrqd
 
+video:
+- [Getting Started with ESP32 - Step-By-Step Tutorial](https://youtu.be/tc3Qnf79Ny8)
