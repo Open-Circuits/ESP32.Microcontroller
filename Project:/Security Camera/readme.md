@@ -1,0 +1,2 @@
+- [Making the most EQUIPPED DIY Security Camera with ESP32-CAM](https://youtu.be/Ul0h5Maeoeg)
+- [10 Great Artificial Intelligence projects using ESP32-CAM!!!](https://youtu.be/ujjg0LJ8hms)
