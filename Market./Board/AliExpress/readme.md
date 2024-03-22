@@ -7,6 +7,10 @@ https://www.aliexpress.us/w/wholesale-ESP32-S.html?spm=a2g0o.detail.search.0
 # index:
 - https://www.aliexpress.us/item/3256806293075269.html
 - https://www.aliexpress.us/item/3256805831702156.html
+- https://www.aliexpress.us/item/3256804874926005.html
 
 # ESP32 WROOM-32
 - https://www.aliexpress.us/item/3256805379076276.html
+- https://www.aliexpress.us/item/3256805379076276.html
+- https://www.aliexpress.us/item/3256806293075269.html
+- https://www.aliexpress.us/item/3256806150650156.html
