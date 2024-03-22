@@ -11,8 +11,8 @@ https://www.aliexpress.us/w/wholesale-ESP32-S.html?spm=a2g0o.detail.search.0
 
 # ESP32 WROOM-32
 - https://www.aliexpress.us/item/3256806236183619.html
-- https://www.aliexpress.us/item/3256806293075269.html
-- https://www.aliexpress.us/item/3256806150650156.html
 
 ## Type-C CH340C
+- 3.12 https://www.aliexpress.us/item/3256806150650156.html
 - 3.12 https://www.aliexpress.us/item/3256805379076276.html
+- 3.69 https://www.aliexpress.us/item/3256806293075269.html
