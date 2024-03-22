@@ -18,3 +18,6 @@ https://www.aliexpress.us/w/wholesale-ESP32-S.html?spm=a2g0o.detail.search.0
 
 ## type: Micro-USB
 - 3.58 https://www.aliexpress.us/item/3256806236183619.html
+
+## model: ESP32-U CH9102
+- 2.81 https://www.aliexpress.us/item/3256805831702156.html
